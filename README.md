@@ -9,7 +9,6 @@
   <meta name="description" content="Basic HTML5 Document" />
   <meta name="keywords" content="HTML5, Responsive"/>
   <title>Pranav Menon's Eportfolio</title>
-  <link rel="stylesheet" type="text/css" href="genericportfoliostyle.css" />
   <style>
   body {
       font-family: 'Audiowide';
