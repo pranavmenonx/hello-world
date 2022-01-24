@@ -1,19 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet'>
-  <meta charset="UTF-8">
-  <!-- For responsive page -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <meta name="description" content="Basic HTML5 Document" />
-  <meta name="keywords" content="HTML5, Responsive"/>
   <title>Pranav Menon's Eportfolio</title>
-  <style>
-  body {
-      font-family: 'Audiowide';
-  }
-  </style>
 </head>
 
 
@@ -76,8 +64,6 @@ Email: <a href="mailto:youremailaddress">pranav7312@gmail.com</a><br>
 
 <p>
 
-<!-- Substitute an "external" link. That is, a link to something outside your own Academic Portfolio site -->
-
 <u>External Links:</u><br>
 <a href="https://anime-update.com/animelist/popular">I watch a lot of anime :) Click here to visit the website I use</a>
 </p>
@@ -88,8 +74,7 @@ Email: <a href="mailto:youremailaddress">pranav7312@gmail.com</a><br>
 
 <p>
 
-<!-- Now that you have the basics, get ready to add to it to make it more interesting.
--->
+
 
 </div>
 
@@ -97,7 +82,6 @@ Email: <a href="mailto:youremailaddress">pranav7312@gmail.com</a><br>
 <div id="footer">
 
 <hr>
-<!-- Substitute correct date. -->
 
 <h6>Last modified: 03 December 2020</h6>
 
